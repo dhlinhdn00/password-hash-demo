@@ -35,7 +35,7 @@ $ ./sha256 ./data/passwords_config.txt
 
 But, in constraint, We cannot yet build a function that uses the gpu to perform brute force on the sha256 hash code (it's so complicated!). Instead of that, I clone the git hub source for brute-force attack task: https://github.com/ngirot/BruteForce
 
-So, the command for running it:
+After cloning it in folder bruteforce, the command for running it:
 $ bruteforce/BruteForce/BruteForce --type sha256 --value {hash value you wanna to attack} --gpu
 
 hash value: you can get it in data/unsalted_hashes.txt.
