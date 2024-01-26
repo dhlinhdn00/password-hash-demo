@@ -40,5 +40,5 @@ $ bruteforce/BruteForce/BruteForce --type sha256 --value {hash value you wanna t
 
 hash value: you can get it in data/unsalted_hashes.txt.
 
-My implementation is conducted on a personal computer: Core I5 11th, 16GB RAM and NVIDIA GeForce RTX 3050 4g VRAM
+My implementation is conducted on a personal computer: Core I5 11th, 16GB RAM and NVIDIA GeForce RTX 3050 4g VRAM.
 
